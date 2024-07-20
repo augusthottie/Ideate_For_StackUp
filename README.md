@@ -7,3 +7,7 @@ This project integrates a leaderboard and tipping functionality into the StackUp
 - **Leaderboard**: Ranks users based on the number of correct submissions.
 - **Tipping System**: Allows users to tip StackVotes for quality bounty submissions.
 - **Discord Integration**: Enables tipping StackCoins to encourage interaction.
+
+## Documentation
+
+For more detailed information, refer to the [project documentation](docs/documentation.pdf).
