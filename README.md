@@ -10,4 +10,4 @@ This project integrates a leaderboard and tipping functionality into the StackUp
 
 ## Documentation
 
-For more detailed information, refer to the [project documentation](docs/documentation.pdf).
+For more detailed information, refer to the [project documentation](https://github.com/AugustHottie/Ideate_For_StackUp/blob/main/Ideate_StackUp_and_Discord.pdf).
